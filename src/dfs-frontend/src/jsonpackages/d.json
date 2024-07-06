@@ -1,0 +1,22 @@
+{
+    "datasetName": "lesss goo",
+    "referenceList": "https://example.com/reference1,https://example.com/reference2",
+    "datasetDescription": "sannnnan",
+    "source": "Dummsfsfsfs",
+    "datasetFormat": "CSV",
+    "domain": "Domain Test",
+    "searchq": "dummy",
+    "version" :{
+    "filetype": "CSV",
+    "filesize": "1.2 GB",
+    "databaseVersionId": "7-7-7",
+    "upfilename": "file3.csv",
+    "version_name": "deeptansh",
+    "datasetForma": "CSV",
+    "reference": "pratham",
+    "created_date": "1689696898000",
+    "publication_names":"NA",
+    "publication_links":"NA"
+    }
+}
+  

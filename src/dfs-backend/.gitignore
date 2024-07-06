@@ -1,0 +1,7 @@
+node_modules
+uploads/
+tempModel/
+tokens.json
+public/
+.env
+package-lock.json

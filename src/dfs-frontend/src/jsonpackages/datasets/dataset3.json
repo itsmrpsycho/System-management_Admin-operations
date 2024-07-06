@@ -1,0 +1,18 @@
+{
+    "datasetName": "Health Survey 2022",
+    "referenceList": "https://example.com/health-survey-reference1,https://example.com/health-survey-reference2",
+    "datasetDescription": "A comprehensive health survey conducted in 2022, covering various aspects of physical and mental well-being.",
+    "source": "National Health Organization",
+    "datasetFormat": "CSV",
+    "domain": "health",
+    "searchq": "health survey",
+    "version": {
+      "filetype": "CSV",
+      "databaseVersionId": "1-1-1",
+      "version_name": "v1.0",
+      "datasetFormat": "CSV",
+      "reference": "https://example.com/health-survey-reference1,https://example.com/health-survey-reference2",
+      "publication_names": "healthorgs",
+      "publication_links": "https://example.com/health-orgs-publication"
+    }
+  }

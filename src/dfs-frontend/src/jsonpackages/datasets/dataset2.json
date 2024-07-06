@@ -1,0 +1,18 @@
+{
+    "datasetName": "Environmental Data Set",
+    "referenceList": "https://example.com/environmental-data-reference1,https://example.com/environmental-data-reference2",
+    "datasetDescription": "A collection of environmental data, including air quality, temperature, and biodiversity metrics across different regions.",
+    "source": "Environmental Protection Agency",
+    "datasetFormat": "JSON",
+    "domain": "Environmental Science",
+    "searchq": "environmental data",
+    "version": {
+      "filetype": "JSON",
+      "databaseVersionId": "2-2-2",
+      "version_name": "v2.0",
+      "datasetFormat": "JSON",
+      "reference": "https://example.com/environmental-data-reference1,https://example.com/environmental-data-reference2",
+      "publication_names": "enviroorgs",
+      "publication_links": "https://example.com/enviro-orgs-publication"
+    }
+  }

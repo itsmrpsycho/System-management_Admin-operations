@@ -1,0 +1,18 @@
+# Node.js
+./dfs-backend/node_modules/
+./dfs-frontend/node_modules/
+
+# Build files
+./dfs-backend/build/
+./dfs-backend/dist/
+*.log
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+pnpm-lock.yaml
+yarn.lock

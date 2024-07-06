@@ -1,0 +1,19 @@
+{
+    "datasetName": "Covid Data",
+    "referenceList": "https://example.com/reference1,https://example.com/reference2",
+    "datasetDescription": "This data was collected during 2nd covid wave and it tells about the symptoms and affects during different stages of covid",
+    "source": "indian government data",
+    "datasetFormat": "CSV",
+    "domain": "Domain Test",
+    "searchq": "dummy",
+    "version" :{
+    "filetype": "CSV",
+    "databaseVersionId": "1-1-1",
+    "version_name": "testing",
+    "datasetForma": "CSV",
+    "reference": "https://example.com/reference1,https://example.com/reference2",
+    "publication_names":"indiaorgs",
+    "publication_links":"NA"
+    }
+}
+  
